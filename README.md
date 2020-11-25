@@ -4,4 +4,4 @@ This exit card is to be completed at the end of the practice lesson once operato
 
 Edit the main.py file to create a program that does the following:
 
-Take the input of a name for a triangle along with its base and height measurement. Ouput the name of the triangle without vowels (including 'y') along with the area of the triangle.
+Take the input of a name for a triangle(1) along with its base(2) and height(3) measurement. Ouput the name of the triangle without vowels(A) (take out 'y' as well) along with the area(B) of the triangle. Ensure you take in the inputs and output the answer in that order.
